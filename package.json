@@ -1,0 +1,19 @@
+{
+  "name": "unit33",
+  "version": "1.0.0",
+  "description": "",
+  "main": "broken-app/server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.3",
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "pg": "^8.7.3"
+  }
+}
